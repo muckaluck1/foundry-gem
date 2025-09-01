@@ -1,7 +1,7 @@
 console.log("Hello World! This code runs immediately when the file is loaded.");
 
 // Gemini API integration for Foundry VTT chat commands
-const GEMINI_API_KEY = "AIzaSyBdaI62f0aDg0Ip8KycGkGK_tVqSC0HDUM"; // Replace with your actual API key
+const GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"; // Insert your Gemini API key here for local development
 const GEMINI_GEM_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/Starfinder Player Aid:generateContent?key=" + GEMINI_API_KEY; // Replace YOUR_GEM
 
 // Register a chat command /gemini
