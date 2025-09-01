@@ -1,3 +1,10 @@
 {
-  "_module": "Replace with your localization strings."
+  "foundry-gem": {
+    "settings": {
+      "apiKey": {
+        "name": "Gemini API Key",
+        "hint": "Enter your Google AI Studio API key for Gemini."
+      }
+    }
+  }
 }
