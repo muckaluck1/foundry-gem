@@ -2,8 +2,12 @@
   "id": "foundry-gem",
   "title": "Foundry Gem",
   "description": "A Foundry VTT module for Gemini-powered chat and automation.",
+  "download": "https://github.com/muckaluck1/foundry-gem/archive/refs/tags/v0.0.0.zip",
+  "manifest": "https://github.com/muckaluck1/foundry-gem/blob/main/module.json",
   "authors": [
-    { "name": "Your Name" }
+    {
+      "name": "Matt M"
+    }
   ],
   "version": "1.0.0",
   "compatibility": {
