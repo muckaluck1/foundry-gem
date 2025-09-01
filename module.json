@@ -1,0 +1,16 @@
+{
+  "id": "foundry-gem",
+  "title": "Foundry Gem",
+  "description": "A Foundry VTT module for Gemini-powered chat and automation.",
+  "authors": [
+    { "name": "Your Name" }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "scripts": [
+    "scripts/roller.js"
+  ]
+}
